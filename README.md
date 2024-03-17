@@ -58,22 +58,22 @@ classify.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-#DATASET
+# DATASET
 ![data](https://github.com/BALA291/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120717501/afa1d61b-fdb7-48f5-93eb-56e3106844ef)
 
-#DROPPING SALARY
+# DROPPING SALARY
 ![drop](https://github.com/BALA291/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120717501/71e31cd3-3741-4378-bd58-3c3311e3fa5d)
 
-#NULL VALUES
+# NULL VALUES
 ![nullvalue](https://github.com/BALA291/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120717501/2b18f041-2284-44ed-8d39-97b214066ac7)
 
-#X AND Y VALUES
+# X AND Y VALUES
 ![x and y values](https://github.com/BALA291/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120717501/b85f1380-b0ac-4537-9dd8-1e7b00533232)
 
-#ACCURACY, CONFUSION MATRIX AND CLASSIFICATION REPORT
+# ACCURACY, CONFUSION MATRIX AND CLASSIFICATION REPORT
 ![accuracy con](https://github.com/BALA291/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120717501/05b2a75d-6e15-4d4c-aaa1-c04013a8f268)
 
-#PREDICTED VALUES
+# PREDICTED VALUES
 ![pred](https://github.com/BALA291/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120717501/abf41d04-e39f-44c7-b745-c8d98687c033)
 
 
